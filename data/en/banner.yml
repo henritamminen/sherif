@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/hero-area.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Teemme linkkien rakentamisesta helppoa"
+  content : "Autamme <b>rahoitusalan sivustoja luomaan vahvan linkkiprofiilin</b>, joka auttaa niitä pärjäämään kokoajan enemmän kilpailluissa hakutuloksissa."
+  button:
+    enable : true
+    label : "Tutustu palveluun"
+    link : "#tietoja"
