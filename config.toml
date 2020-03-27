@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://linkkisheri.fi"
 title = "Linkki Sheriffi"
 theme = "meghna-hugo"
 # post pagination
@@ -7,7 +7,6 @@ paginate = "6"
 # post excerpt
 summaryLength = "15"
 # disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
 
@@ -72,27 +71,9 @@ name = "Yhteydenotto"
 URL = "yhteys"
 weight = 7
 
-#### external / static link ####
-[[menu.static]]
-name = "Themefisher"
-URL = "https://themefisher.com/"
-weight = 7
-
 ############################# Default Parameters ##########################
 [params]
 logo = "images/logo--2.png"
-# Meta data
-description = "Responsive Multipurpose Parallax HTML5 Template"
-author = "Themefisher"
-# Google Analitycs
-google_analitycs_id = "" # Your ID
-# post share
-post_share = true
-
-# preloader
-[params.preloader]
-enable = false
-preloader = "images/logo.png"
 
 
 ############################# social icons ##########################
