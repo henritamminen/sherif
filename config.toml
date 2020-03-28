@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://linkkisheri.fi"
+baseurl = ""
 title = "Linkki Sheriffi"
 theme = "meghna-hugo"
 # post pagination
