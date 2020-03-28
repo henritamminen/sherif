@@ -1,0 +1,11 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Yhteydenotto
+  subtitle : Yhteystiedot
+  content : "Heräsikö mielenkiinto palvelua kohtaan? <br>Saat meihin parhaiten yhteyttä joko lomakkeen tai sähköpostin kautta.<br> Lähetä meille viestiä, olemme teihin yhteydessä 24h sisällä. "
+  form_action: "https://formspree.io/mjvoazee" #contact form works with https://formspree.io
+
+  contact_details :
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Sähköposti: yhteys@linkkisherif.fi"
